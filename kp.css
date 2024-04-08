@@ -128,15 +128,15 @@ nav{
 }
 
 .c2 h2{
-    padding: 1px;
+    margin-left: 10px;
+    padding-top: 10px;
     color: black;
 }
 
-/*.s1 h3{
-    font-size: 1vw;
-    line-height: 1.0vw;
-    font-weight: 500;
-}*/
+.c2 h4{
+    margin-left: 5px;
+}
+
 .cta-btn{
     background: white;
     color: red;
@@ -169,12 +169,28 @@ nav{
     margin-left: 30px;
 }
 
+.c3 h2{
+    padding-top: 10px;
+    margin-left: 10px;
+}
+
+.c3 h4{
+    margin-left: 10px;
+}
 .c4{
     font-size: 13px;
     margin-left: 50px;
     background-color: rgb(236, 93, 246);
 }
 
+.c4 h2{
+    padding-top: 10px;
+    margin-left: 10px;
+}
+
+.c4 h4{
+    margin-left: 10px;
+}
 .fun{
     margin-top: 20px;
     width: auto;
@@ -396,14 +412,7 @@ nav{
     display: inline-block;
     border-radius: 150px;
 }
-/*.fta-btn{
-    background: white;
-    color: red;
-    text-decoration: none;
-    align-items: center;
-    padding: 7px 10px;
-    border-radius: 8px;
-}*/
+
 .row3{
     display: flex;
     height: 15%;
@@ -417,7 +426,7 @@ nav{
     width: 23%;
     height: 100%;
     color: rgb(251, 134, 134);
-    background-color: rgb(228, 224, 224);
+    background-color: rgba(245,245,249,255);
     margin-left: 10px;
     border-radius: 8px;
     text-align: center;
@@ -426,7 +435,7 @@ nav{
     border-radius: 8px;
     margin-top: 10px;
     margin-left: 20px;
-    background-color: rgb(228, 224, 224);
+    background-color: rgba(245,245,249,255);
     color: rgb(56, 55, 55);
 
 }
@@ -443,7 +452,7 @@ nav{
     display: flex;
     width: 23%;
     height: 100%;
-    background-color: rgb(228, 224, 224);
+    background-color: rgba(245,245,249,255);
     margin-left: 40px;
     border-radius: 8px;
     text-align: center;
@@ -453,7 +462,7 @@ nav{
     border-radius: 8px;
     margin-top: 10px;
     margin-left: 60px;
-    background-color: rgb(228, 224, 224);
+    background-color: rgba(245,245,249,255);
     color: rgb(56, 55, 55);
 
 }
@@ -470,7 +479,7 @@ nav{
 .g3{
     display: flex;
     width: 23%;
-    background-color: rgb(228, 224, 224);
+    background-color: rgba(245,245,249,255);
     margin-left: 40px;
     border-radius: 8px;
     text-align: center;
@@ -480,7 +489,7 @@ nav{
     border-radius: 8px;
     margin-top: 10px;
     margin-left: 20px;
-    background-color: rgb(228, 224, 224);
+    background-color: rgba(245,245,249,255);
     color: rgb(56, 55, 55);
 
 }
@@ -496,7 +505,7 @@ nav{
 .g4{
     display: flex;
     width: 23%;
-    background-color: rgb(228, 224, 224);
+    background-color: rgba(245,245,249,255);
     margin-left: 40px;
     border-radius: 8px;
     text-align: center;
@@ -506,7 +515,7 @@ nav{
     border-radius: 8px;
     margin-top: 10px;
     margin-left: 20px;
-    background-color: rgb(228, 224, 224);
+    background-color: rgba(245,245,249,255);
     color: rgb(56, 55, 55);
 
 }
